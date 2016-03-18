@@ -18,7 +18,6 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         myscrollview.contentSize.height = 1500
-
     }
 
     override func didReceiveMemoryWarning() {
